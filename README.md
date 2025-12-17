@@ -1,0 +1,2 @@
+# GenAI
+Model practice
